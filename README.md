@@ -1,7 +1,9 @@
 # R-IDE's & GUI's
 
 RSTUDIO
-https://www.rstudio.com A powerful and productive user interface for R. Works great on Windows, Mac, and Linux.
+<https://www.rstudio.com>
+
+A powerful and productive user interface for R. Works great on Windows, Mac, and Linux.
 
 Revolution R Enterprise 	https://mran.microsoft.com Revolution R would be offered free to academic users and commercial software would focus on big data, large scale multiprocessor functionality.
 
