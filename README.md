@@ -47,3 +47,5 @@ A powerful and productive user interface for R. Works great on Windows, Mac, and
 
 **Deducer** 	http://www.deducer.org/pmwiki/pmwiki.php?n=Main.DeducerManual?from=Main.HomePage A Menu driven data analysis GUI with a spreadsheet like data editor.
 
+
+Last ed. 13.10.2020, contributers:oozdamar@msgsu.edu.tr,
