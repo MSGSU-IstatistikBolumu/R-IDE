@@ -1,11 +1,11 @@
 # R-IDE's & GUI's
 
-RSTUDIO
+*RSTUDIO*
 <https://www.rstudio.com>
 
 A powerful and productive user interface for R. Works great on Windows, Mac, and Linux.
 
-Revolution R Enterprise 	https://mran.microsoft.com Revolution R would be offered free to academic users and commercial software would focus on big data, large scale multiprocessor functionality.
+*Revolution R Enterprise* 	https://mran.microsoft.com Revolution R would be offered free to academic users and commercial software would focus on big data, large scale multiprocessor functionality.
 
 EMACS + ESS 	http://ess.r-project.org Emacs Speaks Statistics is an add-on package for emacs text editors.
 
