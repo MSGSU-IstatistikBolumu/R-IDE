@@ -15,6 +15,8 @@ A powerful and productive user interface for R. Works great on Windows, Mac, and
 
 **NOTEPAD++** 	https://notepad-plus-plus.org/download/v7.6.3.html
 
+**REPL.IT** https://repl.it.  In-Browser IDE
+
 **SCIVIEWS** 	http://www.sciviews.org
 
 **R-BRAIN** 	https://r-brain.io/en/
